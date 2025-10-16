@@ -1,4 +1,4 @@
-#  Kode Python untuk Perkuliahan Analisis Data —
+#  Kode Python untuk Perkuliahan Analisis Data Fakultas Ilmu Komputer Universitas Brawijaya
 
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#lisensi)
