@@ -1,7 +1,9 @@
-# Analisis Data — Kode Python untuk Perkuliahan
+#  Kode Python untuk Perkuliahan Analisis Data —
 
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#lisensi)
+
+Code: Sabri
 
 Repositori ini memuat notebook Jupyter untuk pembelajaran **Analisis Data** pada level dasar–menengah. Saat ini mencakup studi kasus *Exploratory Data Analysis (EDA)*, konsep **distribusi peluang**, dan **Interquartile Range (IQR)**. :contentReference[oaicite:0]{index=0}
 
