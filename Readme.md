@@ -5,7 +5,7 @@
 
 Code: Sabri
 
-Repositori ini memuat notebook Jupyter untuk pembelajaran **Analisis Data** pada level dasar–menengah. Saat ini mencakup studi kasus *Exploratory Data Analysis (EDA)*, konsep **distribusi peluang**, dan **Interquartile Range (IQR)**. :contentReference[oaicite:0]{index=0}
+Repositori ini memuat notebook Jupyter untuk pembelajaran **Analisis Data** pada level dasar–menengah. Saat ini mencakup studi kasus *Exploratory Data Analysis (EDA)*, konsep **distribusi peluang**, dan **Interquartile Range (IQR)**. 
 
 ## Struktur Berkas
 
